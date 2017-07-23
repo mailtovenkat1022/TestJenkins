@@ -9,5 +9,6 @@ namespace TestJenkins.Models
     {
         public String ProductID { get; set; }
         public String ProductName { get; set; }
-}
+        public String ProductCode { get; set; }
+    }
 }
